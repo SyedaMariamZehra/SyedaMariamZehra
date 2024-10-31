@@ -2,7 +2,8 @@
 - 👀 I’m interested in Artifical Intelligence
 - 🌱 I’m currently learning javascript & python
 - 💞️ I’m looking to collaborate on web development
-- 📫 How to reach me mariamzehra93@gmail.com
+- 📫 How to reach me mariamzehra93@gmail.com <br> https://www.linkedin.com/in/syeda-mariam-zehra/
+
 
 <!---
 SyedaMariamZehra/SyedaMariamZehra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
